@@ -1,6 +1,6 @@
 ## Customer_Centric-E-commerce-Analysis-Power-BI-Dashboard-Project
 # uilt an interactive Power BI dashboard to analyze e-commerce sales and customer behavior.
-Key highlights:
+-*Key highlights:
 🔹 Cleaned and merged datasets (orders + customer profiles)
 🔹 Created calculated columns & DAX measures (Order Value, LTV, Segments)
 🔹 Analyzed trends, loyalty, retention & product popularity
